@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(108, 172, 172);
+}
+
+.container {
+  width: 1240px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.disco {
+  position: relative;
+}
+
+.disco-heading {
+  text-align: center;
+  color:#fff;
+}
+
+.input {
+  position: absolute;
+  left: 190px;
+  top: 105px;
+  padding: 7px 55px;
+  border-radius: 25px;
+  border: none;
+}
+
+.button {
+  padding:7px 25px;
+  position: absolute;
+  border-radius:25px;
+  border:none;
+  left: 475px;
+  top: 105px;
+}
+
+.output {
+  position: absolute;
+  left: 200px;
+  top:190px;
+  color: #fff;
+  font-size: 24px;
+}
